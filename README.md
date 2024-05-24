@@ -1,2 +1,2 @@
-# -nvchad-config
-My custom NvChad configuration
+nvchad-config
+My custom NvChad configuration (main used as Python development)
